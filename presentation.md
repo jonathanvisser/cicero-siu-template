@@ -1,4 +1,4 @@
-background-image: url(<full-relative-path>/img/pres-title-bg.png)
+background-image: url(img/pres-title-bg.png)
 class: background, middle
 
 # TITLE
