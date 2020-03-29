@@ -7,11 +7,12 @@ class: background, middle
 
 .small[Author:   |   Version: draft v0.1]
 
-.logo[<img src="<full-relative-path>/img/logo.png"/>]
+.logo[<img src="img/logo.png"/>]
 
 ---
 layout: true
 <div id="footer-content"><p><strong>Revolution through Evolution.</strong></p></div>
+
 ---
 
 
