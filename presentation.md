@@ -1,17 +1,17 @@
-background-image: url(<full-relative-path>/img/bg-certus-slide.jpg)
-class: background, center, middle
+background-image: url(<full-relative-path>/img/pres-title-bg.png)
+class: background, middle
 
 # TITLE
 
 # Subtitle
 
-.small.center[Author:   |   Version: draft v0.1]
+.small[Author:   |   Version: draft v0.1]
 
 .logo[<img src="<full-relative-path>/img/logo.png"/>]
 
 ---
 layout: true
-<div id="footer-content"><p><strong>Fresh Ideas.</strong> Exceptional Outcomes.</p></div>
+<div id="footer-content"><p><strong>Revolution through Evolution.</strong></p></div>
 ---
 
 
