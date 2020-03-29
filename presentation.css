@@ -111,7 +111,7 @@ li {counter-increment: li}
 
 html body{font-family:Gotham SSm A,Gotham SSm B,Helvetica,Arial,sans-serif;font-weight:300}
 .background {
-    background-position: top left;
+    background-position: top right;
     background-size: 90%;
 }
 .center.middle h1{
