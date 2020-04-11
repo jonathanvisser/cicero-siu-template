@@ -53,7 +53,7 @@ display: none;
 }
 
 #footer-bar{
-  background-image:url("images/img/colour-bar.png");
+  background-image:url("/images/img/colour-bar.png");
   background-repeat: no-repeat;
   background-size: 100%;
   float:left;
