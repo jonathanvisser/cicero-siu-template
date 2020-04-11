@@ -1,37 +1,71 @@
 background-image: url(img/pres-title-bg.png)
-class: background, middle
+class: title-slide
 
-# TITLE
-
-# Subtitle
-
-.small[Author:   |   Version: draft v0.1]
+# Our Product
+# Your people, transformed
 
 .logo[<img src="img/logo.png"/>]
 
+.version[Author:---<br>Version: draft v0.1]
+
 ---
 layout: true
-<div id="footer-content"><p><strong>Revolution through Evolution.</strong></p></div>
+<div id="footer-content"><div id="footer-bar"></div><p><img id="tagline-logo" src="img/logo.png"/><span id="tagline"><strong>Revolution through Evolution.</strong></span></p></div>
 
 ---
 
 
 ### CONTENTS
 
-.box[
 * First Slide
+
+---
+
+# First Slide
+
+.center.bold[Bold statement]
+
+???
+Some notes for you, not the audience.
+Tip: press "P" on the keyboard to enter presentation mode.
+press "F" to view the presentation full screen.
+
+---
+
+# Next Steps
+
+.light.left[.box.olive[
+### Remarkable statement
+Reinforcing points:
+* Great point 1
+* Great point 2
+* Great point 3
+]]
+
+.right[
+> A great quote that is not too short but gets the point across. <br>.attribution[Really Smart Person]
 ]
 
 ---
 
-class: center, red
-
-# First Slide
-
-Big statement
+.condense[
+# Table
+|Summary |Number |Category |
+|:----|----:|:----:|
+|Idea 1 |10 | Dimension 1 |
+|Idea 2 |35 | Dimension 1 |
+|Idea 3 |18 | Dimension 2|
+]
 
 ---
 
-class: center, blue
-
-# Next Steps
+class:dark
+background-image: url(img/the-thinker.jpeg)
+# Last thoughts
+.box.olive[
+## Remarkable statement
+Reinforcing points:
+* Great point 1
+* Great point 2
+* Great point 3
+]
