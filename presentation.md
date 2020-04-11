@@ -69,3 +69,4 @@ Reinforcing points:
 * Great point 2
 * Great point 3
 ]
+.credit[Photo by Joshua Sortino on Unsplash]

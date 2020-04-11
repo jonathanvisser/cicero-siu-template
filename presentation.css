@@ -470,3 +470,13 @@ table {
     text-align: center;
 }
 .r{text-align:right;display:block;}
+
+.credit{
+  font-size:54%;
+  font-style: italic;
+  color: #545454;
+  text-align: right;
+  position: absolute;
+  right:21px;
+  bottom:2px;
+}
