@@ -10,7 +10,9 @@ class: title-slide
 
 ---
 layout: true
-<div id="footer-content"><div id="footer-bar"></div><p><img id="tagline-logo" src="img/logo.png"/><span id="tagline"><strong>Revolution through Evolution.</strong></span></p></div>
+<div id="footer-content">
+<div id="footer-bar"><img id="bar" src="img/colour-bar-6px.png"/></div>
+<p><img id="tagline-logo" src="img/logo.png"/><span id="tagline"><strong>Revolution through Evolution.</strong></span></p></div>
 
 ---
 
